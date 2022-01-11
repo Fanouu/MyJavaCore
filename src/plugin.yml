@@ -1,0 +1,8 @@
+name: AzunaPractice
+author: Fan
+version: 1.0
+api-version: 1.9.4
+main: fr.fan.javaCore.Core
+commands:
+  spawn:
+    description: "basic spawn commandes"
